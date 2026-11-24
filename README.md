@@ -8,6 +8,12 @@ I'm a data science student at UT Dallas (B.S., expected May 2029). I'm intereste
 - **Undergraduate Research Assistant**, SPUR, UT Dallas: transit accessibility analysis across the Dallas-Fort Worth region
 - **Web Developer (Backend)**, Indigo Magazine at UT Dallas
 
+## Projects
+
+**[DFW Transit Job Accessibility](https://github.com/sanjulajuttada-creator/transit-job-accessibility)**
+
+Measuring how many jobs each of 1,123 census tracts in the Dallas–Fort Worth region can reach by public transit, and whether access tracks income or car ownership. Python, GeoPandas, r5py, PySAL.
+
 ## 🛠️ Languages & Tools
 
 **Languages**
